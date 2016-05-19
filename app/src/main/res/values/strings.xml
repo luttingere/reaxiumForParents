@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ReaxiumForParents</string>
+
+    <string name="pushSenderID">28273286366</string>
+
+    <!--Functional messages-->
+    <string name="progress_dialog_message">Please Wait...</string>
+
+    <!-- Exception Messages-->
+    <string name="no_main_layout_exception">There is not main layout configured in the activity.</string>
+    <string name="simple_exception_message">An error has occurred, try again later.</string>
+    <string name="bad_connection_message">Bad Connection, try it again.</string>
+    <string name="no_network_available">Wi-Fi and mobile data are unavailable.</string>
+
+    <!--Menu Drawer-->
+    <string name="menu_drawer_logout">Log Out</string>
+    <string name="menu_drawer_home">Home</string>
+
+
+    <!--Screen titles-->
+    <string name="your_students">Your Students</string>
+    <string name="student_access_information">Access Information</string>
+    <string name="track_the_user">Tracking Student</string>
+
+
+
+
+
+</resources>

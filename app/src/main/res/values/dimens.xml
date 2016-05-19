@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="navigation_view_text_size">20sp</dimen>
+
+    <!--Menu Drawer-->
+    <dimen name="admin_drawer_menu_header_height">100sp</dimen>
+
+</resources>
